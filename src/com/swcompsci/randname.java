@@ -7,79 +7,79 @@ public class randname {
            return "A";
         }
         else if(number1 == 2) {
-           return "A";
+           return "B";
         }
        else if(number1 == 3) {
-           return "A";
+           return "C";
        }
        else if(number1 == 4) {
-           return "A";
+           return "D";
        }
        else if(number1 == 5) {
-           return "A";
+           return "E";
        }
        else if(number1 == 6) {
-           return "A";
+           return "F";
        }
        else if(number1 == 7) {
-           return "A";
+           return "G";
        }
        else if(number1 == 8) {
-           return "A";
+           return "H";
        }
        else if(number1 == 9) {
-           return "A";
+           return "I";
        }
        else if(number1 == 10) {
-           return "A";
+           return "J";
        }
        else if(number1 == 11) {
-           return "A";
+           return "K";
        }
        else if(number1 == 12) {
-           return "A";
+           return "L";
        }
        else if(number1 == 13) {
-           return "A";
+           return "M";
        }
        else if(number1 == 14) {
-           return "A";
+           return "N";
        }
        else if(number1 == 15) {
-           return "A";
+           return "O";
        }
        else if(number1 == 16) {
-           return "A";
+           return "P";
        }
        else if(number1 == 17) {
-           return "A";
+           return "Q";
        }
        else if(number1 == 18) {
-           return "A";
+           return "R";
        }
        else if(number1 == 19) {
-           return "A";
+           return "S";
        }
        else if(number1 == 20) {
-           return "A";
+           return "T";
        }
        else if(number1 == 21) {
-           return "A";
+           return "U";
        }
        else if(number1 == 22) {
-           return "A";
+           return "V";
        }
        else if(number1 == 23) {
-           return "A";
+           return "W";
        }
        else if(number1 == 24) {
-           return "A";
+           return "X";
        }
        else if(number1 == 25) {
-           return "A";
+           return "Y";
        }
        else if(number1 == 26) {
-           return "A";
+           return "Z";
        }
        else {
              return "a";
